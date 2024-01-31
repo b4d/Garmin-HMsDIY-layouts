@@ -1,11 +1,15 @@
 # Garmin-HMsDIY-layouts
 
-The screenshots from the designer do not show real form on the device (it is much better).
 
+
+External links:
 - [HMs DIY #1 - Connect IQ Store - Garmin](https://apps.garmin.com/en-US/apps/b0346b71-bf01-4070-96d6-3de66dcc8233) - there are multiple versions (#1, #2...), so you can have multiple screens of custom data.
 - [Official Documentation](http://public.stattegg.info/HMs_DIY_GUIDANCE.pdf)
 - [Some more designs on official Github repo](https://github.com/hundsmiachn/Garmin_HMsDIY)
 
+
+
+> The screenshots from the designer do not show real form on the device (it is much better).
 
 
 ## b4d-840-hr-cad-pwr
