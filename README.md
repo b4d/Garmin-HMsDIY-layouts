@@ -30,7 +30,7 @@ Layout contents (from top to bottom, left to right):
 - Timer
 - TSS (set up FTP in app settings!)
 - 3s power
-- Power zone, color coordinated to Garmin colors
+- Power zone, color coordinated to Garmin colors (set up power zones in app settings!)
 - Normalized power without zeroes
 - Max power
 - Power in zones (in percent and bars)
