@@ -1,6 +1,16 @@
 # Garmin-HMsDIY-layouts
 
+The screenshots from the designer do not show real form on the device (it is much better).
+
+[HMs DIY #1 - Connect IQ Store - Garmin](https://apps.garmin.com/en-US/apps/b0346b71-bf01-4070-96d6-3de66dcc8233) - there are multiple versions (#1, #2...), so you can have multiple screens of custom data.
+[Official Documentation](http://public.stattegg.info/HMs_DIY_GUIDANCE.pdf)
+[Some more designs on official Github repo](https://github.com/hundsmiachn/Garmin_HMsDIY)
+
+
+
 ## b4d-840-hr-cad-pwr
+
+> Currently used and updated.
 
 ![b4d-840-hr-cad-pwr](img/b4d-840-hr-cad-pwr.png)
 
@@ -10,6 +20,8 @@ C!!iQJ!ww*!O'p$a!!!$d!"6][!WW3zOx,0H!!!!!$V!!iQ)!WW3zOx,0[!!!!!°C!!lCt"TSNyLbRx
 
 ## b4d-840-hr-cad
 
+> Since I have added power meter to my setup, this layout probably won't get updated. 
+
 ![b4d-840-hr-cad](img/b4d-840-hr-cad.png)
 
 ```
@@ -17,6 +29,8 @@ C!!iQJ!ww*!O'p$a!!!$d!!iQ*!w@WM!s'Dj!!!!h!!iQ*!w@WM!s/cW!!!"N!!iQ*!w@WM!s8-D!!!z
 ```
 
 ## b4d-530-hr-cad
+
+> Probably the final version.
 
 ![b4d-530-hr-cad-pwr](img/b4d-530-hr-cad.png)
 
